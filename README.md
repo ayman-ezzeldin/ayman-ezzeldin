@@ -11,7 +11,7 @@ I'm a passionate front-end developer specializing in building responsive, dynami
 
 ## 🛠️ Technologies & Tools
 
-- **Front-end**: HTML, CSS, JavaScript, React.js, Tailwind CSS, Sass
+- **Front-end**: HTML, CSS, JavaScript, TypeScript, React.js, Next js, Tailwind CSS, Sass
 - **3D Web Development**: Three.js
 - **UI Libraries**: Material-UI, Chakra UI
 - **Version Control**: Git, GitHub
