@@ -1,6 +1,6 @@
 # Hi, I'm Ayman Mohamed Ezzeldin💚
 
-I'm a passionate front-end developer specializing in building responsive, dynamic websites and web applications. Currently, I’m pursuing my degree in Computer Science and Engineering at Zagazig University and leading the front-end track at Google Developer Student Clubs (DSC).
+I'm a passionate front-end developer specializing in building responsive, dynamic websites and web applications. Currently, I’m pursuing my degree in Computer and Systems Engineering at Zagazig University and leading the front-end track at Google Developer Student Clubs (DSC).
 
 ## 🚀 About Me
 
