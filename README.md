@@ -21,9 +21,9 @@ I'm a passionate front-end developer specializing in building responsive, dynami
 
 Here are some of the projects I've worked on:
 
-1. [Zag Eng Family](https://zag-eng-family.vercel.app/): A platform to help students manage and search data from various providers.
-2. [E-Learning Platform](https://e-learning-app-six.vercel.app/): A website providing courses across different fields, along with testimonials and Q&A sections.
-3. [My Portfolio](https://ayman-ezz.vercel.app/): A personal portfolio showcasing my work and skills.
+1. [My Portfolio](https://ayman-ezz.vercel.app/): A personal portfolio showcasing my work and skills.
+2. [Zag Eng Family](https://zag-eng-family.vercel.app/): A platform to help students manage and search data from various providers.
+3. [E-Learning Platform](https://e-learning-app-six.vercel.app/): A website providing courses across different fields, along with testimonials and Q&A sections.
 
 ## 🌐 Connect with Me
 
