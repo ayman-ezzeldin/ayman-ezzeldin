@@ -33,4 +33,4 @@ Here are some of the projects I've worked on:
 
 ---
 
-⭐️ From [Ayman Mohamed Ezzeldin](https://github.com/ayman-ezz)
+⭐️ From [Ayman Mohamed Ezzeldin](https://github.com/ayman-ezzeldin)
