@@ -29,7 +29,6 @@ Here are some projects that showcase my skills and expertise:
 
 - **Portfolio**: [ayman-ezz.vercel.app](https://ayman-ezz.vercel.app/)
 - **LinkedIn**: [linkedin.com/in/ayman-ezzeldin](https://linkedin.com/in/ayman-ezzeldin)
-- **GitHub**: [github.com/ayman-ezz](https://github.com/ayman-ezz)
 
 ---
 
