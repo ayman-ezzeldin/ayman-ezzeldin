@@ -36,26 +36,10 @@
 
 ---
 
-## 🏆 Featured Projects
-
-1. **[Portfolio Website](https://ayman-ezz.vercel.app/)**  
-   A sleek personal website showcasing my projects, skills, and achievements.  
-   **Stack**: React, Tailwind CSS, Framer Motion
-
-2. **[Zag Eng Family](https://zag-eng-family.vercel.app/)**  
-   A collaborative platform to manage and organize student data from multiple providers.  
-   **Stack**: Next.js, Firebase, Tailwind CSS
-
-3. **[E-Learning Platform](https://e-learning-app-six.vercel.app/)**  
-   A responsive e-learning site with course listings, testimonials, and interactive Q&A.  
-   **Stack**: React, Redux, SCSS
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayman-ezzeldin&show_icons=true&theme=radical" alt="GitHub Stats" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=ayman-ezzeldin&show_icons=true&theme=radical" alt="GitHub Stats" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ayman-ezzeldin&theme=radical" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayman-ezzeldin&layout=compact&theme=radical" alt="Top Languages" />
 </div>
