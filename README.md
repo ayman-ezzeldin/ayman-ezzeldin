@@ -60,8 +60,4 @@
 
 </div>
 
----
-
-### 📌 What’s Next?
-
-I'm constantly building, learning, and collaborating. Follow along as I explore new tech and ship awesome projects. Stay tuned for more updates! 🚀
+-
