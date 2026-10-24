@@ -53,8 +53,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayman-ezzeldin&layout=compact&theme=radical)  
 
-[![Ayman's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ayman-ezzeldin&theme=react-dark)](https://github.com/ayman-ezzeldin/github-readme-activity-graph)
-
 </div>
 
 ## 🌐 Let's Connect!  
