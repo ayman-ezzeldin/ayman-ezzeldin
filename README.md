@@ -47,14 +47,6 @@
 
 ---
 
-## 📊 GitHub Stats & Activity  
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayman-ezzeldin&layout=compact&theme=radical)  
-
-</div>
-
 ## 🌐 Let's Connect!  
 
 <p align="center">
